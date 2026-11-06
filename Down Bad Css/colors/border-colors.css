@@ -1,0 +1,210 @@
+/*
+this is part of the Down Bad Css Utill this file is protected under the license `GNU`
+see https://github.com/Kitywiel/Down-Bad-Css-Basic/blob/main/LICENSE
+*/
+
+/* A */
+.bdc-al{border-color: aliceblue;}
+.bdc-am{border-color: aquamarine;}
+.bdc-aq{border-color: aqua;}
+.bdc-aw{border-color: antiquewhite;}
+.bdc-az{border-color: azure;}
+
+/* B */
+.bdc-ba{border-color: black;}
+.bdc-bc{border-color: blanchedalmond;}
+.bdc-be{border-color: beige;}
+.bdc-bi{border-color: bisque;}
+.bdc-bl{border-color: blue;}
+.bdc-br{border-color: brown;}
+.bdc-bw{border-color: burlywood;}
+.bdc-bv{border-color: blueviolet;}
+
+/* C */
+.bdc-ca{border-color: cadetblue;}
+.bdc-cf{border-color: cornflowerblue;}
+.bdc-ch{border-color: chartreuse;}
+.bdc-cl{border-color: chocolate;}
+.bdc-cm{border-color: crimson;}
+.bdc-cn{border-color: cornsilk;}
+.bdc-co{border-color: coral;}
+.bdc-cy{border-color: cyan;}
+
+
+/* D */
+.bdc-db{border-color: darkblue;}
+.bdc-dc{border-color: darkcyan;}
+.bdc-dr{border-color: darkgoldenrod;}
+.bdc-dg{border-color: darkgray;}
+.bdc-de{border-color: darkgreen;}
+.bdc-dy{border-color: darkgrey;}
+.bdc-dh{border-color: darkkhaki;}
+.bdc-dm{border-color: darkmagenta;}
+.bdc-do{border-color: darkolivegreen;}
+.bdc-da{border-color: darkorange;}
+.bdc-di{border-color: darkorchid;}
+.bdc-dk{border-color: darkred;}
+.bdc-ds{border-color: darksalmon;}
+.bdc-dt{border-color: darkslateblue}
+.bdc-dsa{border-color: darkslategray;}
+.bdc-dse{border-color: darkslategrey;}
+.bdc-dq{border-color: darkturquoise;}
+.bdc-dv{border-color: darkviolet;}
+.bdc-dp{border-color: deeppink;}
+.bdc-dyb{border-color: deepskyblue;}
+.bdc-dia{border-color: dimgray;}
+.bdc-die{border-color: dimgrey;}
+.bdc-dd{border-color: dodgerblue;}
+.bdc-dea{border-color: darkseagreen;}
+
+
+/* E */
+
+
+/* F */
+.bdc-fi{border-color: firebrick;}
+.bdc-fu{border-color: fuchsia;}
+.bdc-fl{border-color: floralwhite;}
+.bdc-fo{border-color: forestgreen;}
+
+/* G */
+.bdc-gb{border-color: gainsboro;}
+.bdc-gw{border-color: ghostwhite;}
+.bdc-go{border-color: gold;}
+.bdc-ga{border-color: gray;}
+.bdc-gr{border-color: green;}
+.bdc-gy{border-color: greenyellow;}
+.bdc-ge{border-color: grey;}
+
+/* H */
+.bdc-hd{border-color: honeydew;}
+.bdc-hp{border-color: hotpink;}
+
+/* I */
+.bdc-ir{border-color: indianred;}
+.bdc-id{border-color: indigo;}
+.bdc-iv{border-color: ivory;}
+
+/* J */
+
+
+/* K */
+.bdc-ka{border-color: khaki;}
+
+/* L */
+.bdc-ld{border-color: lavender;}
+.bdc-lb{border-color: lavenderblush;}
+.bdc-lg{border-color: lawngreen;}
+.bdc-lc{border-color: lemonchiffon;}
+.bdc-li{border-color: lightblue;}
+.bdc-lo{border-color: lightcoral;}
+.bdc-ly{border-color: lightcyan;}
+.bdc-lgy{border-color: lightgoldenrodyellow;}
+.bdc-lga{border-color: lightgray;}
+.bdc-le{border-color: lightgreen;}
+.bdc-lge{border-color: lightgrey;}
+.bdc-lp{border-color: lightpink;}
+.bdc-ls{border-color: lightsalmon;}
+.bdc-lsg{border-color: lightseagreen;}
+.bdc-lsb{border-color: lightskyblue;}
+.bdc-lsa{border-color: lightslategray;}
+.bdc-lse{border-color: lightslategrey;}
+.bdc-lt{border-color: lightsteelblue;}
+.bdc-ll{border-color: lightyellow;}
+.bdc-lim{border-color: lime;}
+.bdc-lig{border-color: limegreen;}
+.bdc-lin{border-color: linen;}
+
+/* M */
+.bdc-ma{border-color: magenta;}
+.bdc-mr{border-color: maroon;}
+.bdc-mq{border-color: mediumaquamarine;}
+.bdc-mb{border-color: mediumblue;}
+.bdc-mi{border-color: mediumorchid;}
+.bdc-mp{border-color: mediumpurple;}
+.bdc-mg{border-color: mediumseagreen;}
+.bdc-msb{border-color: mediumslateblue;}
+.bdc-msg{border-color: mediumspringgreen;}
+.bdc-mt{border-color: mediumturquoise;}
+.bdc-mv{border-color: mediumvioletred;}
+.bdc-mn{border-color: midnightblue;}
+.bdc-ma{border-color: mintcream;}
+.bdc-my{border-color: mistyrose;}
+.bdc-mc{border-color: moccasin;}
+
+/* N */
+.bdc-nw{border-color: navajowhite;}
+.bdc-na{border-color: navy;}
+
+/* O */
+.bdc-ol{border-color: oldlace;}
+.bdc-ov{border-color: olive;}
+.bdc-od{border-color: olivedrab;}
+.bdc-or{border-color: orange;}
+.bdc-og{border-color: orangered;}
+.bdc-oc{border-color: orchid;}
+
+/* P */
+.bdc-pr{border-color: palegoldenrod;}
+.bdc-pg{border-color: palegreen;}
+.bdc-pq{border-color: paleturquoise;}
+.bdc-pv{border-color: palevioletred;}
+.bdc-pw{border-color: papayawhip;}
+.bdc-pp{border-color: peachpuff;}
+.bdc-pe{border-color: peru;}
+.bdc-pi{border-color: pink;}
+.bdc-pl{border-color: plum;}
+.bdc-pb{border-color: powderblue;}
+.bdc-pu{border-color: purple;}
+
+/* Q */
+
+
+/* R */
+.bdc-rc{border-color: rebeccapurple;}
+.bdc-re{border-color: red;}
+.bdc-rr{border-color: rosybrown;}
+.bdc-rb{border-color: royalblue;}
+
+/* S */
+.bdc-sr{border-color: saddlebrown;}
+.bdc-sa{border-color: salmon;}
+.bdc-sw{border-color: sandybrown;}
+.bdc-sg{border-color: seagreen;}
+.bdc-ss{border-color: seashell;}
+.bdc-se{border-color: sienna;}
+.bdc-si{border-color: silver;}
+.bdc-sy{border-color: skyblue;}
+.bdc-sb{border-color: slateblue;}
+.bdc-sga{border-color: slategray;}
+.bdc-sge{border-color: slategrey;}
+.bdc-so{border-color: snow;}
+.bdc-spg{border-color: springgreen;}
+.bdc-seb{border-color: steelblue;}
+
+/* T */
+.bdc-ta{border-color: tan;}
+.bdc-te{border-color: teal;}
+.bdc-ti{border-color: thistle;}
+.bdc-to{border-color: tomato;}
+.bdc-tu{border-color: turquoise;}
+
+/* U */
+
+
+/* V */
+.bdc-vi{border-color: violet;}
+
+/* W */
+.bdc-we{border-color: wheat;}
+.bdc-wi{border-color: white;}
+.bdc-ws{border-color: whitesmoke;}
+
+/* X */
+
+
+/* Y */
+.bdc-ye{border-color: yellow;}
+.bdc-yg{border-color: yellowgreen;}
+
+/* Z */

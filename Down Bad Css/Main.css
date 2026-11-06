@@ -7,3 +7,4 @@ see https://github.com/Kitywiel/Down-Bad-Css-Basic/blob/main/LICENSE
 /*colors*/
 @import url(./colors/background-colors.css);  /*Basic Background Color*/
 @import url(./colors/text-colors.css);  /*Basic text Color*/
+@import url(./colors/border-colors.css);  /*Basic border Color*/
