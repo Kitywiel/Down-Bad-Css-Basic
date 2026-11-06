@@ -1,2 +1,9 @@
+/*
+this is part of the Down Bad Css Utill this file is protected under the license `GNU`
+see https://github.com/Kitywiel/Down-Bad-Css-Basic/blob/main/LICENSE
+*/
 
-@import url(./color)
+
+/*colors*/
+@import url(./colors/background-colors.css);  /*Basic Background Color*/
+@import url(./colors/text-colors.css);  /*Basic text Color*/
